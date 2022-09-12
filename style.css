@@ -1,0 +1,44 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+table
+{
+    border: 2px solid double;
+}
+h1{
+    font-size: 14px;
+}
+h2
+{
+    font-size: 14px;
+    font-weight: 200;
+}
+h5{
+    font-size: 11px;
+    font-weight: 200;
+}
+ h6{
+    font-weight: 200;
+    font-size: 16px;
+}
+span{
+    margin-left: 25px;
+    font-weight: 200;
+}
+.hour{
+    margin-left: 130px;
+    margin-top: -16px;
+}
+p{
+    font-size: 12px;
+}
+.stamp
+{
+    margin-top: -40px;
+}
+.border
+{
+    border-bottom: none;
+}
